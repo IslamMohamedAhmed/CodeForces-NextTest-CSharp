@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\NextTest\NextTest\bin\Debug\net8.0\NextTest.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\NextTest\NextTest\bin\Debug\net8.0\NextTest.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\NextTest\NextTest\bin\Debug\net8.0\NextTest.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\NextTest\NextTest\bin\Debug\net8.0\NextTest.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\NextTest\NextTest\bin\Debug\net8.0\NextTest.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\NextTest\NextTest\obj\Debug\net8.0\NextTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\NextTest\NextTest\obj\Debug\net8.0\NextTest.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\NextTest\NextTest\obj\Debug\net8.0\NextTest.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\NextTest\NextTest\obj\Debug\net8.0\NextTest.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\NextTest\NextTest\obj\Debug\net8.0\NextTest.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\NextTest\NextTest\obj\Debug\net8.0\refint\NextTest.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\NextTest\NextTest\obj\Debug\net8.0\NextTest.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\NextTest\NextTest\obj\Debug\net8.0\NextTest.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\NextTest\NextTest\obj\Debug\net8.0\ref\NextTest.dll
